@@ -47,7 +47,7 @@ RhymeRadar is a web application that enables users to search for song lyrics by 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Avr99j/RhymeRadar.git
+   git clone git@github.com:jpquental90/RhymeRadar.git
    ```
 
 2. Navigate to the project directory:
@@ -60,7 +60,7 @@ RhymeRadar is a web application that enables users to search for song lyrics by 
 
 ### OR
 
-Kindly click on the deployed portal link - https://avr99j.github.io/RhymeRadar/
+Kindly click on the deployed portal link - https://jpquental90.github.io/RhymeRadar/
 
 ## Contributing
 
